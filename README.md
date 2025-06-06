@@ -1,35 +1,17 @@
-# projeto_e-commerce
+# Projeto P2 
+# Projeto P2
 
-This template should help get you started developing with Vue 3 in Vite.
+## Prints do sistema:
 
-## Recommended IDE Setup
+![Print 1](imagens/capturar.png)
+![Print 2](imagens/capturar1.png)
+# Projeto P2
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+![Print 1](imagens/capturar2.png)
+![Print 2](imagens/capturar3.png)
+# Projeto P2
 
-See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
+![Print 1](imagens/capturar4.png)
+![Print 2](imagens/capturar5.png)
