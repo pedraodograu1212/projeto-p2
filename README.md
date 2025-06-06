@@ -4,6 +4,9 @@
 
 Modo de rodagem: após instalar o repositório no Prompt de comando do seu próprio computador, encontre a pasta do projeto e rode "npm install", logo após "npm run dev (ou serv)".
 
+Este é um projeto criado em vue.js + tailwind + api(DummyJson)
+contém requests de listagem de produtos, barra de pesquisa, categorias de produtos e carrinho de compras.
+
  Prints do sistema:
 
 ![Print 1](imagens/capturar.png)
